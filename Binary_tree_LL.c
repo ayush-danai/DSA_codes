@@ -77,5 +77,5 @@ int main() {
 
     // In a real application, you would also need a function to free the allocated memory.
 
-    return 0;
+    return 1;
 }
