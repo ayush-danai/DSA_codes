@@ -95,5 +95,5 @@ int main() {
                 printf("Invalid choice!\\n");
         }
     }
-    return 1;
+    return 0;
 }
