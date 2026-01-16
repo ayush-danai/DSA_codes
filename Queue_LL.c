@@ -87,5 +87,5 @@ int main() {
     dequeue(); // Output: Dequeued element: 30
     dequeue(); // Output: Queue Underflow! Queue is empty.
 
-    return 0;
+    return 1;
 }
