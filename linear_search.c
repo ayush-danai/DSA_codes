@@ -29,5 +29,5 @@ int main() {
         printf("Element found at index: %d\n", result);
     }
 
-    return 1;
+    return 0;
 }
