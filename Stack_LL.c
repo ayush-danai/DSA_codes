@@ -96,5 +96,5 @@ int main() {
         }
     } while (choice != 5);
 
-    return 1;
+    return 2;
 }
