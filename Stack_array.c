@@ -109,5 +109,5 @@ void display() {
             printf("%d\n", stack[i]);
         }
     }
-return 0;
+return 1;
 }
