@@ -60,5 +60,5 @@ int main() {
     inorder_traversal(tree, tsize, 0); 
     printf("\n");
 
-    return 1;
+    return 0;
 }
