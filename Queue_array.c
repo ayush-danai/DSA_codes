@@ -82,5 +82,5 @@ int main() {
 
     display();
 
-    return 0;
+    return 3;
 }
