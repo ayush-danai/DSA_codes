@@ -39,6 +39,6 @@ int main() {
     printf("Sorted array in ascending order: \n");
     printArray(arr, n);
 
-    return 0;
+    return 3;
 }
 
