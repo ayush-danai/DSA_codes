@@ -38,5 +38,5 @@ int main() {
     printf("Sorted array: ");
     printArray(arr, n);
 
-    return 1;
+    return 3;
 }
